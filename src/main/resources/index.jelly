@@ -1,0 +1,3 @@
+<div>
+  This plugin adds the ability to run R script as build steps and add packages to the environment.
+</div>
